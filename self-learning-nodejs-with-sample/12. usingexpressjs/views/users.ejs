@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+  </head>
+  <body>
+    <% include header.ejs %>
+    <h1><%= title %></h1>
+    <h3><%= userList.description%></h3>
+    <ul>
+      <% userList.users.forEach(function (eachUser) { %>
+        <li><%= eachUser.name %></li>
+        <li><%= eachUser.age %></li>
+        <li><%= eachUser.address %></li>
+      <% }) %>
+
+    </ul>
+  </body>
+</html>

@@ -1,0 +1,11 @@
+{
+    "name": "hienthihtmlphiaserver",
+    "main": "app.js",
+    "description": "This is toturial",
+    "repository": "",
+    "dependencies": {
+        "http": "*",
+        "fs": "*",
+        "path": "*"
+    }
+}

@@ -1,0 +1,29 @@
+Huong dan cai dat module ben ngoai
+- Nhung module cua cac nha phat trien, dua len git, minh lay ve dung cho ung dung
+- Huong dan cai dat thong qua package.son
+- module download se duoc luu tru o node_modules
+
+1. Tao file package.json
+2. install
+
+file package.json
+----------------------------------
+{
+    // Ten ung dung
+    "name":"my-tutorial",
+    // Entry point, file dau tien ma ung dung doc den
+    "main":"app.js",
+    // Mo ta
+    "description":"This is toturial",
+    // Chua can den repository
+    "repository":"",
+    // Cac module can dung
+    "dependencies": {
+        "fs":"*",
+        "http":"*"
+    }
+}
+----------------------------------
+
+
+

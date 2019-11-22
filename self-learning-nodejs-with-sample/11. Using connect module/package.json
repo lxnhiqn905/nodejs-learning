@@ -1,0 +1,12 @@
+{
+    "name": "usingconnectmodule",
+    "main": "app.js",
+    "description": "This is toturial",
+    "repository": "",
+    "dependencies": {
+        "http": "*",
+        "fs": "*",
+        "path": "*",
+        "connect": "*"
+    }
+}

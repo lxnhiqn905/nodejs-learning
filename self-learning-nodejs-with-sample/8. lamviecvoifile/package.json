@@ -1,0 +1,10 @@
+{
+    "name": "lamviecvoifile",
+    "main": "app.js",
+    "description": "This is toturial",
+    "repository": "",
+    "dependencies": {
+        "fs": "*",
+        "path": "*"
+    }
+}

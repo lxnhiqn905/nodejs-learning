@@ -1,0 +1,22 @@
+{
+    "description":"This is List Users",
+    "users": [
+        {
+            "name":"User 1",
+            "age": "10",
+            "address":"Quang Nam"
+        },
+        {
+            "name":"User 2",
+            "age": "15",
+            "address":"Da Nang"
+        },
+        {
+            "name":"User 3",
+            "age": "30",
+            "address":"Quang Tri"
+        }
+
+    ]
+
+}

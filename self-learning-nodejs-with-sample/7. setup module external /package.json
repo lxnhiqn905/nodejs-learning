@@ -1,0 +1,10 @@
+{
+    "name": "my-tutorial",
+    "main": "app.js",
+    "description": "This is toturial",
+    "repository": "",
+    "dependencies": {
+        "fs": "*",
+        "http": "*"
+    }
+}
